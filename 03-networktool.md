@@ -24,4 +24,6 @@ referer 设置为：http://pan.baidu.com/disk/home
 
 
 添加额外的Tracker：
+`https://github.com/ngosang/trackerslist.git`
+
 `bt-tracker=http://mgtracker.org:2710/announce,http://tracker.istole.it/announce,http://tracker.coppersurfer.tk:6969/announce`
