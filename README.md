@@ -32,5 +32,5 @@ Apache License 2.0，详情见 [LICENSE](LICENSE) 文件。
 如果你觉得这份文档对你有帮助，请微信扫描下方的二维码进行捐赠，加油后的 xjw263 将会和你分享更多的原创教程，谢谢！
 
 <p align="center">
-  <img src="https://github.com/xingjianwei/xjwdocs.git/blob/master/images/weixin_sk.jpg?raw=true" alt="weixin_sk.jpg"/>
+  <img src="./images/weixin_sk.jpg?raw=true" alt="weixin_sk.jpg"/>
 </p>
